@@ -1,3 +1,3 @@
 # Welcome friends.
 
-My name is Nick. Welcome to my Github profile, make yourself at home.
+Thanks for visiting my Github profile, make yourself at home.
