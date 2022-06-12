@@ -4,7 +4,6 @@ My name's Nick. 👋
 Thanks for visiting my Github profile.
 
 ## About Me
-📍 Born and raised in Las Vegas, NV<br>
 📚 **Full-stack** web developer<br>
 ⛓ Studying **blockchain** and **web 3.0** development<br>
 🚀 Passionate about creativity, innovation, and technology<br>
