@@ -10,10 +10,9 @@ Thanks for visiting my Github profile.
 🌎 Striving to make the world better for future generations<br>
 
 ## Skills
-**Front-end:** JavaScript, HTML/CSS, Bootstrap<br>
-**Back-end:** Node.JS, Express.JS, Rust<br>
-**Other:** Docker, MongoDB<br>
-🧠 Continuing to learn more to add to this list
+👀 **Front-end:** HTML/CSS, JavaScript, Bootstrap<br>
+⚙️ **Back-end:** JavaScript, Node.JS, Express.JS, PHP<br>
+💭 **Other:** Docker, MongoDB, MySQL<br>
 
 ## Connect
 🐦 [Twitter](https://twitter.com/njo_lv)<br>
