@@ -4,8 +4,7 @@ My name's Nick. 👋
 Thanks for visiting my Github profile.
 
 ## About Me
-📚 **Full-stack** web developer<br>
-⛓ Studying **blockchain** and **decentralized web** development<br>
+📚 Full-stack web developer<br>
 🚀 Passionate about creativity, innovation, and technology<br>
 🌎 Striving to make the world better for future generations<br>
 
