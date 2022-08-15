@@ -9,11 +9,6 @@ Thanks for visiting my Github profile.
 🚀 Passionate about creativity, innovation, and technology<br>
 🌎 Striving to make the world better for future generations<br>
 
-## Skills
-👀 **Front-end:** HTML/CSS, JavaScript, Bootstrap<br>
-⚙️ **Back-end:** JavaScript, Node.JS, Express.JS, PHP<br>
-💭 **Other:** Docker, MongoDB, MySQL<br>
-
 ## Connect
 🐦 [Twitter](https://twitter.com/njo_lv)<br>
 🏢 [LinkedIn](https://www.linkedin.com/in/nicholas-oliveira-066948219/)<br>
