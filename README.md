@@ -5,7 +5,7 @@ Thanks for visiting my Github profile.
 
 ## About Me
 📚 Full-stack web developer<br>
-🚀 Passionate about creativity, innovation, and technology<br>
+⛓️ Studying blockchain and Web 3.0 technologies<br>
 🌎 Striving to make the world better for future generations<br>
 
 ## Connect
