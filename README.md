@@ -1,9 +1,6 @@
 # About Me
 My name's Nick. 👋<br><br>
-📚 Full-stack web developer<br>
+🌐 Front-end web developer<br>
+🎨 UI/UX designer<br>
 🎰 Born in Las Vegas, Nevada<br>
 🌎 Striving to improve the world for future generations<br>
-
-## Connect
-🏢 [LinkedIn](https://www.linkedin.com/in/nicholas-oliveira-066948219/)<br>
-🐦 [Twitter](https://twitter.com/njo_lv)
