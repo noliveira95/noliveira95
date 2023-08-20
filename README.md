@@ -1,6 +1,6 @@
 # About Me
 Hello. 👋 My name's Nick, thanks for visiting my profile.<br><br>
-🌐 Front-end web developer with full-stack 📚 experience<br>
+👁️ Front-end web developer
 👤 User experience (UX) designer<br>
 🎨 User interface (UI) designer<br>
 🎰 Born in Las Vegas, Nevada<br>
